@@ -11,7 +11,7 @@ HERE THE CORRECT PASSWORD IS '12345'
   
 ## The location
 
-Please downlaod the "Bad_UI_Login_Interface folder". Run the application "Bad_UI", the login window pops up
+Please downlaod the "Bad_UI_Login_Interface folder". Run the application "Bad_UI.exe" present in the location "..\Bad_UI_Login_Interface\Bad_UI.exe" , the login window pops up
 
 ## How to use it
 
